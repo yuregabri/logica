@@ -1,0 +1,32 @@
+Variaveis proposionais
+
+p = {p, q, r, s p1, q1, s1...}
+unario = negação
+binarios = conjunção: e, ou, se
+parenteses = usados para facilitar ordem de precedencia
+parenteses externos = omitidos
+
+conjunções são formulas a esquerda
+--> formula a direita
+
+ordem de precendencia
+nao,
+e,
+ou,
+pertence.
+
+subformulas
+
+A = B, seja B subformula de A
+A = B e C, B ou C, B --> C = B, C são subformulas de A
+B sempre é subformula de A, quaisquer elmenteos de B sao formulas de A
+
+comprimento de formulas
+todo elemento do conjunto e relativo a 1
+|A| = 1
+Todos os elemento de covalencia são iguais a 1
+
+arvore sintatica
+todos os conjuntos de precedencia são sub-arvores de uma arvore
+sendo A uma formula atomica, sua arvore é A
+A = B,C, logo qualquer elemento é uma subarvore de precedencia
